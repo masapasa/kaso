@@ -1,3 +1,5 @@
+https://docs.google.com/presentation/d/1IspnAVIk8aQj6Qg8duVF14fFCp6erhOU_YETG7x0fuo/edit?usp=sharing
+
 ## Leveraging Cardano Blockchain for Academic Data Management: A Comprehensive Analysis ##
 
 ## Abstract:
