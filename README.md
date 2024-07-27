@@ -36,6 +36,16 @@ Compliance: Ensuring adherence to data protection regulations like GDPR.
 Education and Training: Offering workshops to familiarize stakeholders with blockchain technology.
 Iterative Development: Starting with a pilot project and scaling up based on feedback and results.
 
+## LLM based counselling platform and zk LLM
+
+we have the LLMs (synergised with education knowledge graphs) interacting with Users/students generating the pathways
+
+as there are concerns we develop the zkLLM framework to address the privacy and transparency
+
+![](./images/llm_interact.png?raw=true "interact_KG")
+
+link for demo privacy preserving prompts: https://naavi-german.vercel.app/
+
 ## 8. Conclusion
 The Cardano blockchain holds significant promise for revolutionizing academic data management. By addressing the current system's shortcomings, it can offer a more secure, transparent, and efficient way to handle academic records. The success of this initiative will depend on strategic partnerships, regulatory compliance, and the ongoing development of the Cardano platform.
 
