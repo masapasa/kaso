@@ -382,6 +382,16 @@ class CardanoRepository {
         if ("teacher" in properties) {
             currDatum.teacher = properties.teacher;
         }
+        // ... existing code ...
+
+        if (utxos.length === 0) {
+            // Handle the case where no UTXOs are found more gracefully
+            // For example, log the issue and return early
+            console.error(`No UTXOs found at address ${pAddress} with unit ${this.vUnit()}.`);
+            return; // Exit the function early
+        }
+
+        // ... existing code ...
 
         const tx = await this.lucid
             .newTx()
